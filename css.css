@@ -1,1 +1,7 @@
 /* !normalize.css v3.0.2 | MIT License | git.io/normalize */
+body {
+	background-color: LightGray;
+}
+div {
+	border: 1px solid Chocolate;
+}
