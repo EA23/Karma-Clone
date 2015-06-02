@@ -5,28 +5,36 @@ body {
 div {
 	border: 1px solid Chocolate;
 }
+/* Image */
+ img.logo {
+ 	url ("images/karma-logo copy(2).svg")
+ }
+
 / * Navigation Section */
-.top-navigation {
+.top-navigation .links {
 	background-color: #fff;
+	font-family: 'Roboto', sans-serif;
+	color:#838994;
+	font-size:16px;
+	margin-top: 25px;
+	-webkit-font-smoothing: antialiased;
 	
 }
- .content {
-	width: 970px;
-	height: 70px;
-	margin: 0 auto;
-	padding: 0px 15px;
+
+.top-navigation .links li{
+	display:inline-block;
+	margin-left: 25px;
+}
+.top-navigation .links .active{
+	color: #4c5058;
+	font-weight: 500;
+
+}
+.top-navigation .links li:hover {
+	cursor:pointer;
+	color: #333333;
 }
 
-.li {
-	float: left;
-	display: inline-block;
-}
 
-div.content{
-	image: 26px;
-}
 
-img.logo {
-	padding: 0px 15px;
 }
-
