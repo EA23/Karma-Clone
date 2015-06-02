@@ -8,6 +8,7 @@ div {
 / * Navigation Section */
 .top-navigation {
 	background-color: #fff;
+	
 }
  .content {
 	width: 970px;
@@ -16,10 +17,11 @@ div {
 	padding: 0px 15px;
 }
 
-.links {
-	float:right;
+.li {
+	float: left;
 	display: inline-block;
 }
+
 div.content{
 	image: 26px;
 }
