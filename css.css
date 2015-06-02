@@ -17,3 +17,13 @@ div {
 div.content{
 	image: 26px;
 }
+
+.top-navigation > .links{
+	float: right;
+	display: inline-block;
+}
+
+img.logo > .content{
+	padding: 0px 15px;
+}
+}
