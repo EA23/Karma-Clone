@@ -19,7 +19,19 @@ div {
  	url ("images/karma-logo copy(2).svg")
  }
 
-/ * Navigation Section */
+/* background immage introduction */
+.introduction {
+	background-image: url('../images/first-background.jpg');
+	background-position: center bottom;
+	background-repeat: no-repat;
+	background-size: cover;
+	height: 45.938rem;
+	background-position: 0 bottom;
+	background-size: cover;
+	
+}
+
+/* Navigation Section */
 .top-navigation .links {
 	background-color: #fff;
 	font-family: 'Roboto', sans-serif;
