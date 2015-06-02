@@ -9,21 +9,22 @@ div {
 .top-navigation {
 	background-color: #fff;
 }
-.top-navigation > .content {
+ .content {
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
+	padding: 0px 15px;
+}
+
+.links {
+	float:right;
+	display: inline-block;
 }
 div.content{
 	image: 26px;
 }
 
-.top-navigation > .links{
-	float: right;
-	display: inline-block;
-}
-
-img.logo > .content{
+img.logo {
 	padding: 0px 15px;
 }
-}
+
