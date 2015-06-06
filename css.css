@@ -8,12 +8,6 @@ html {
 }
 
 
-body {
-	background-color: LightGray;
-}
-div {
-	border: 1px solid Chocolate;
-}
 /* Image */
  img.logo {
  	url ("images/karma-logo copy(2).svg")
