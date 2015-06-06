@@ -95,7 +95,7 @@ div {
  * Introduction Section
  */
 .introduction {
-    background-image: url('../img/first-background.jpg');
+    background-image: url('images/first-background copy.jpg');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -173,7 +173,7 @@ div {
     background-color: #fff;
     overflow: auto;
     padding-bottom: 9.375rem;
-    text-align: center;
+com    text-align: center;
 }
 .social hr {
     border: 0;
